@@ -6,3 +6,5 @@ University of Michigan: Coursera Data Science Specialization
 ### Week1: Basic, Numpy
 
 ### Week2: Pandas data structure: Series, DataFrame
+
+### Week3: Manipulating DataFrame
