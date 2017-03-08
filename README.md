@@ -8,3 +8,5 @@ University of Michigan: Coursera Data Science Specialization
 ### Week2: Pandas data structure: Series, DataFrame
 
 ### Week3: Manipulating DataFrame
+
+### Week4: Distribution and Hypothesis Testing
