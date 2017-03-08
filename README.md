@@ -10,5 +10,6 @@ University of Michigan: Coursera Data Science Specialization
 ### Week3: Manipulating DataFrame
 
 ### Week4: Distribution and Hypothesis Testing
+---
 
 ## 2. Applied Plotting, Charting & Data Representation in Python
